@@ -12,24 +12,25 @@
 </head>
 
 <body>
-  <h1 id="name">Name</h1>
-  <p id="about">About</p>
-  <p id="education">Education</p>
-  <p id="skills">Skills</p>
-  <p id="work">Work</p>
-  <p id="contact">Contact</p>
+  <h1 style="color:red" id="name">Name</h1>
+  <p style="color:orange" id="about">About</p>
+  <p style="color:yellow" id="education">Education</p>
+  <p style="color:green" id="skills">Skills</p>
+  <p style="color:blue" id="work">Work</p>
+  <p style="color:violet" id="contact">Contact</p>
   <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
   <script>
   $(window).on('load', function(){
      // change the URL to your server URL here
-     $.getJSON("http://127.0.0.1:8000/api/person/1/", function (data) {
+     $.getJSON("http://162.246.157.218:8000/api/person/1/", function (data) {
           $("#name").text(data.data.attributes.name);
           $("#about").text(data.data.attributes.about);
           $("#education").text(data.data.attributes.education);
           $("#skills").text(data.data.attributes.skills);
+          $("#work").text(data.data.attributes.work);
+          $("#contact").text(data.data.attributes.contact);
           // Complete consuming the API data and updating the work and contact sections
           // HINT: look at the above lines, jquery documentation, see what is the object returned
-     
      
 
      });

