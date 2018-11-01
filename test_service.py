@@ -1,10 +1,6 @@
 from unittest.mock import patch
 from service import *
 
-@patch("service.Service.bad_random", return_value=10)
-def test_bad_random():
-	value = bad_random()
-	assert(value == 10)
 
 @patch("service.Service.bad_random", return_value=10)
 def test_divide():
